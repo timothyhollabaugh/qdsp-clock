@@ -22,7 +22,6 @@
 
 #define STATE_CLOCK 0
 #define STATE_TIME_SET 1
-#define STATE_ALARM_SET 2
 
 #define HOUR 2
 #define MINUTE 1
